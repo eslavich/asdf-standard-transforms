@@ -1,2 +1,2 @@
-# asdf-standard-transforms
-ASDF transform schemas
+# asdf-transform-schemas
+ASDF schemas for transforms.
