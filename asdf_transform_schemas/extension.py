@@ -10,15 +10,18 @@ class AsdfTransformSchemasExtension:
         return []
 
     @property
-    def tag_mapping(self):
-        return []
-
-    @property
     def standard_ids(self):
         return set(STANDARD_PATHS_BY_ID.keys())
 
     def get_standard_path(self, standard_id):
         return STANDARD_PATHS_BY_ID.get(standard_id)
+
+    @property
+    def tag_mapping(self):
+        return [(
+            "tag:astroasdf.org:transform",
+            "http://astroasdf.org/schemas/transform{tag_suffix}"
+        )]
 
     @property
     def url_mapping(self):
