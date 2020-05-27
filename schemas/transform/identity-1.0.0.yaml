@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://astroasdf.org/schemas/transform/identity-1.0.0"
+tag: "tag:astroasdf.org:transform/identity-1.0.0"
 title: >
   The identity transform.
 description: >

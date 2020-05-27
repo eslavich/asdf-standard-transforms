@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://astroasdf.org/schemas/transform/power_law1d-1.0.0"
+tag: "tag:astroasdf.org:transform/power_law1d-1.0.0"
 title: >
   One dimensional power law model.
 

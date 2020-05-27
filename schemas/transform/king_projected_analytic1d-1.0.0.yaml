@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://astroasdf.org/schemas/transform/king_projected_analytic1d-1.0.0"
+tag: "tag:astroasdf.org:transform/king_projected_analytic1d-1.0.0"
 title: >
   Projected (surface density) analytic King Model.
 

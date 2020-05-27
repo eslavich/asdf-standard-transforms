@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://astroasdf.org/schemas/transform/power-1.0.0"
+tag: "tag:astroasdf.org:transform/power-1.0.0"
 title: >
   Perform a list of subtransforms in parallel and then raise each
   result to the power of the next.

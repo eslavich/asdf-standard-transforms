@@ -2,6 +2,7 @@
 ---
 $schema: "http://stsci.edu/schemas/yaml-schema/draft-01"
 id: "http://astroasdf.org/schemas/transform/transform-1.0.0"
+tag: "tag:astroasdf.org:transform/transform-1.0.0"
 title: >
   A generic type used to mark where other transforms are accepted.
 
