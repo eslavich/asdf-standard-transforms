@@ -19,8 +19,8 @@ class AsdfTransformSchemasExtension:
     @property
     def tag_mapping(self):
         return [(
-            "tag:astroasdf.org:transform",
-            "http://astroasdf.org/schemas/transform{tag_suffix}"
+            "tag:astroasdf.org:transform/",
+            "http://astroasdf.org/schemas/transform/{tag_suffix}"
         )]
 
     @property
