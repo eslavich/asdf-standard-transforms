@@ -1,2 +1,2 @@
 # asdf-transform-schemas
-ASDF transform schemas
+ASDF schemas for transforms.
